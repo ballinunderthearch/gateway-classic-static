@@ -1,0 +1,21 @@
+/* Mobile framing only. The original desktop layout and source assets stay intact. */
+@media (max-width:600px), (max-width:950px) and (max-height:500px){
+ /* Fit the complete approved 1104 x 1424 artwork, including its baked button. */
+ .opening-frame{width:min(calc(100vw - env(safe-area-inset-left) - env(safe-area-inset-right)),calc((100dvh - env(safe-area-inset-top) - env(safe-area-inset-bottom)) * (1104 / 1424)));aspect-ratio:1104/1424}
+ .opening-frame img{width:100%;height:100%;object-fit:contain;object-position:50% 50%}
+ #enter-classic{top:87.7%;width:max(140px,31.5cqw);height:max(44px,5.9cqw);font-size:2.65cqw}
+ #enter-classic>span.button-face{width:31.5cqw;height:5.9cqw}
+ /* Crop exactly to the nine-state composition. The selected source window
+    is (409,276)-(1257,864), centered on the St. Louis x=833 anchor.
+    Clip the image and SVG together, so no partial headline/footer survives. */
+ #website main{padding-inline:0}
+ .details,#state-list{margin-inline:8px;width:calc(100% - 16px)}
+ .map-viewport{position:relative;display:block}
+ .map{position:absolute;left:50%;top:50%;width:min(181.13207547cqw,261.2244898cqh);height:auto;max-width:none;max-height:none;transform:translate(-54.231770833%,-55.6640625%);transform-origin:0 0;clip-path:inset(26.953125% 18.1640625% 15.625% 26.627604167%)}
+ .map>img{display:block;width:100%;height:auto}
+ .map>svg{position:absolute;inset:0;width:100%;height:100%}
+}
+@media (max-width:950px) and (max-height:500px) and (orientation:landscape){
+ #enter-classic{width:max(120px,20cqw);height:max(44px,3.75cqw);font-size:1.75cqw;top:88.77%}
+ #enter-classic>span.button-face{width:20cqw;height:3.75cqw}
+}

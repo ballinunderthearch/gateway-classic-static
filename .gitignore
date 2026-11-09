@@ -1,0 +1,7 @@
+.DS_Store
+.env*
+*.log
+*.db
+*.sqlite*
+node_modules/
+backups/

@@ -1,0 +1,27 @@
+{
+  "approvedSourceCommit": "9ca6614a17e1e1cb4300b39f7c1c286c3f1ae6fe",
+  "unchangedSha256": {
+    "style.css": "25f37f5293753937630a64809556caaeeba44e985a3656c958ce46c4a7d750d5",
+    "entry.css": "7c72d1467d3d5c4a9f96c7302b54cc12a871e83f353b2fb594b6c6ef3385895a",
+    "viewport.css": "86aac6ffeec9828c93875da3a43951df4616f16ac0c6162ab2a2073113bc0ff4",
+    "opening-overlay.css": "15fe1de551ef71532b4115ab65fb64df851d7ff522a2229b2efd3876363a396a",
+    "mobile.css": "241be98f73cd4d0b0091e61c5da48b476ba5de86e5997b26fc3e81da7ef9edb5",
+    "headquarters.css": "70d6dc5e1b447f3be920bff341d2ecae6169345f5ac7ccf3aa18b8e65610e9c8",
+    "regions.js": "e4aa22876ff52e216b745de6148bde96012e12ce5fa0dfb3e05372c1b11878fb",
+    "app.js": "8a2d91945e45be38c2e6f0152690cb77484c4930aca6a94d228373c572d876e7",
+    "entry.js": "63f3e6044077d49388f55adacbcbdbf6d36c46a4eb1f42d872a5377c93eb4a7c",
+    "opening-overlay.js": "01bb43dd579d02d5d519c771d75f10b92fe01079d24773ceba303c2937a56503",
+    "assets/nighttime-arch-desktop-35b3494d.png": "a83513bff883df8c44c8c934cb92b44eaf11231c5edb892d89640ac350b18956",
+    "assets/regional-map-original.png": "8d36b427af7ca7fd0085a466cbdd5f2ada5fbd0bf2a827e4beaaa6a531019669",
+    "assets/arch-emblem-mask.png": "6af887cbbdbd1bfab3eb9918963f7851aa0333ccdf241b8e8223196cc705dfae",
+    "assets/nebraska-illumination-mask.png": "48fc9b84f9280f0443f925a56bf0e6567e8fcb3c771a868ebd952c872940a2b7",
+    "assets/iowa-illumination-mask.png": "9f91c810ae2f2392591e48b868a94beaa9b4113489b591ffb98d570a872258bd",
+    "assets/illinois-illumination-mask.png": "5417c7822c0d19e2188c1b2dca1276c284a65e4827a3850fb8ae6d7872d63af6",
+    "assets/kentucky-illumination-mask.png": "feb68c29a2a6df7f90b8a0ec0fb60d1ab1fb0af1f29c1fcc31a7a7a21008725f",
+    "assets/tennessee-illumination-mask.png": "517a863518d38f62a44a167a19720a664a2e314f0c529df1656d2a1a21a91727",
+    "assets/arkansas-illumination-mask.png": "41432f395064bd6d308393ad8b0577d702ea8f4ee34ce2ec213aac451ef1cade",
+    "assets/oklahoma-illumination-mask.png": "3b4b23a29ec0f1d47180214bb04bd6d8dae71b3918d807c793549d12b885a12e",
+    "assets/kansas-illumination-mask.png": "4edc658138e448d5e1c02d2665a9f292a522323c604cfee2c0c397476a52bcba",
+    "assets/missouri-illumination-mask.png": "a8054852fbe4541ca3cdabed9390eb3fe17067d62e00e1a1ff4882a9ff6bedd3"
+  }
+}
